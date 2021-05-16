@@ -1,0 +1,28 @@
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Evaluator.csprojAssemblyReference.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Evaluator.csproj.GenerateResource.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Evaluator.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Evaluator.csproj.Fody.CopyLocal.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Evalulator.Information.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Evalulator.Main.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Evalulator.Settings.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Evalulator.Notification.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Evalulator.Properties.Resources.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\bin\Release\Regex Evalulator.exe.config
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\bin\Release\Regex Evalulator.exe
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\bin\Release\Regex Evalulator.pdb
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Evalulator.exe
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Evalulator.pdb
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\bin\Release\Regex Evalulator.exe.config
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\bin\Release\Regex Evalulator.exe
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\bin\Release\Regex Evalulator.pdb
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex Evaluator.csprojAssemblyReference.cache
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex_Evalulator.Information.resources
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex_Evalulator.Main.resources
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex_Evalulator.Settings.resources
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex_Evalulator.Notification.resources
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex_Evalulator.Properties.Resources.resources
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex Evaluator.csproj.GenerateResource.cache
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex Evaluator.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex Evaluator.csproj.Fody.CopyLocal.cache
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex Evalulator.exe
+C:\Users\Unknown\source\repos\Regex Evalulator\Regex Evalulator\obj\Release\Regex Evalulator.pdb

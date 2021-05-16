@@ -1,0 +1,13 @@
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\bin\Release\Regex Tester.exe.config
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\bin\Release\Regex Tester.exe
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\bin\Release\Regex Tester.pdb
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Tester.Properties.Resources.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Tester.csproj.GenerateResource.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Tester.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Tester.exe
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Tester.pdb
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Tester.Main.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Tester.Notification.resources
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Tester.csproj.Fody.CopyLocal.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex Tester.csprojAssemblyReference.cache
+C:\Users\Unknown\source\repos\Regex Tester\Regex Tester\obj\Release\Regex_Tester.Settings.resources
