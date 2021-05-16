@@ -178,24 +178,6 @@ namespace Regex_Evalulator
             }
         }
 
-        private void metroButton2_Click(object sender, EventArgs e)
-        {
-            metroTextbox1.Text = "([(\\/V|I\\/I|)nN𝔫𝔑η𝓃𝒩𝕟ℕｎＮɴNunN🄽Ͷᴎ🅽ₙⁿᴺⓝⓃภɳNռᏁŋຖ𝐧𝐍𝘯𝘕𝙣𝙉𝚗𝙽Пηñ₦几刀ղហᑎᘉ\\s]+[iI1𝔦ℑ𝖎𝕴𝓲𝓘𝒾𝐼𝕚𝕀ｉＩ𝒾𝐼ɪɪIıiI🄸Ii🅸ᵢᵢⁱᴵⓘⒾเιIɨᎥıi𝐢𝐈𝘪𝘐𝙞𝙄𝚒𝙸IIιιïÌł丨ﾉìįIᓰ\\s]+[𝔤𝔊96𝖌𝕲96𝓰ᵍ➈➅𝓰𝓖𝑔𝒢𝕘𝔾𝟡𝟞ｇＧ９６𝑔𝒢ɢ⅁ɓgG🄶9Ꭾǫ🅶g₉₆ᵍᴳ⁹⁶ⓖⒼ⑨⑥ﻮɠᎶງ₲ᎶgGqQf3F\\s]+[aA𝔞𝔄4𝖆𝕬4Δค➃𝓪𝓐𝒶𝒜𝕒𝔸𝟜ａＡ４ᴀ∀ɐ🄰ɒ:a:ₐₐ₄ᵃᴬ⁴ⓐⒶ④คαAǟąค𝐚𝐀𝟒𝘢𝘈4𝙖𝘼4𝚊𝙰𝟺ΛαåÄ₳卂ﾑąȺᗩⒶⓐ➃❹ά➃@euU3\\s]+([rR𝔯ℜ𝖗𝕽ℝⓡ𝓻𝓡𝓇𝑅𝕣ℝｒＲ𝓇𝑅ʀᴚɹ🅁Яɿ🆁ᵣʳᴿⓡⓇгɾRʀᏒr𝐫𝐑𝘳𝘙𝙧𝙍𝚛𝚁ЯяⱤ尺ɾའᖇᏗ\\s]+|)(\\s|)+|([rR𝔯ℜ𝖗𝕽ℝⓡ𝓻𝓡𝓇𝑅𝕣ℝｒＲ𝓇𝑅ʀᴚɹ🅁Яɿ🆁ᵣʳᴿⓡⓇгɾRʀᏒr𝐫𝐑𝘳𝘙𝙧𝙍𝚛𝚁ЯяⱤ尺ɾའᖇᏗ\\s]+|)(\\s|)+[aA𝔞𝔄4𝖆𝕬4Δค➃𝓪𝓐𝒶𝒜𝕒𝔸𝟜ａＡ４ᴀ∀ɐ🄰ɒ:a:ₐₐ₄ᵃᴬ⁴ⓐⒶ④คαAǟąค𝐚𝐀𝟒𝘢𝘈4𝙖𝘼4𝚊𝙰𝟺ΛαåÄ₳卂ﾑąȺᗩⒶⓐ➃❹ά➃@euU3\\s]+[𝔤𝔊96𝖌𝕲96𝓰ᵍ➈➅𝓰𝓖𝑔𝒢𝕘𝔾𝟡𝟞ｇＧ９６𝑔𝒢ɢ⅁ɓgG🄶9Ꭾǫ🅶g₉₆ᵍᴳ⁹⁶ⓖⒼ⑨⑥ﻮɠᎶງ₲ᎶgGq3QfF\\s]+[iI1𝔦ℑ𝖎𝕴𝓲𝓘𝒾𝐼𝕚𝕀ｉＩ𝒾𝐼ɪɪIıiI🄸Ii🅸ᵢᵢⁱᴵⓘⒾเιIɨᎥıi𝐢𝐈𝘪𝘐𝙞𝙄𝚒𝙸IIιιïÌł丨ﾉìįIᓰ\\s]+[(\\/V|I\\/I|)nN𝔫𝔑η𝓃𝒩𝕟ℕｎＮɴNunN🄽Ͷᴎ🅽ₙⁿᴺⓝⓃภɳNռᏁŋຖ𝐧𝐍𝘯𝘕𝙣𝙉𝚗𝙽Пηñ₦几刀ղហᑎᘉ\\s])";
-        }
-
-        private void metroButton3_Click(object sender, EventArgs e)
-        {
-            metroTextbox1.Text = "^(ht|f)tp(s?)\\:\\/\\/[0-9a-zA-Z]([-.\\w]*[0-9a-zA-Z])*(:(0-9)*)*(\\/?)([a-zA-Z0-9\\-\\.\\?\\,\\'\\/\\\\\\+&%\\$#_]*)?$";
-        }
-
-        private void metroButton6_Click(object sender, EventArgs e)
-        {
-            metroTextbox1.Text = "(#|)[cC\\s]+[oO0\\s]+[nN\\s]+[tT7\\s]+[rR\\s]+[oO0\\s]+[lIL\\|\\s]+[\\|iIIl1]+[nN\\s]+[gG96]";
-        }
-        private void metroButton10_Click(object sender, EventArgs e)
-        {
-            metroTextbox1.Text = "(#|)+[eE3\\s]+[zZ\\s]+[oO0\\s]+[iIl1\\|]+[lLI\\|1]";
-        }
         private void metroButton4_Click(object sender, EventArgs e)
         {
             richTextBox1.Text = "";
