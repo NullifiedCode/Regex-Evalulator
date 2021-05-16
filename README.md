@@ -11,3 +11,4 @@ https://www.vb-paradise.de/index.php/Thread/81271-metrosuite-update-08-02-2013-h
 https://stackoverflow.com/questions/1926264/color-different-parts-of-a-richtextbox-string#1926822
 
 https://github.com/Fody/Costura
+
